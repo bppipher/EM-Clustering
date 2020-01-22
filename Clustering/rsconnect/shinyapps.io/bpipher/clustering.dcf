@@ -1,0 +1,10 @@
+name: clustering
+title:
+username:
+account: bpipher
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 905044
+bundleId: 2747332
+url: https://bpipher.shinyapps.io/clustering/
+when: 1579730347.78793
